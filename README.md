@@ -23,7 +23,7 @@ _A compilation of my skills learned during me first week at Epicodus - covering 
 
 #### OR
 
-* [Click here!]({gh-pages-link-goes-here})
+* [Click here!](https://joanna-miller.github.io/portfolio/)
 
 ## License
 
