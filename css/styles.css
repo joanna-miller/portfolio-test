@@ -1,0 +1,54 @@
+.container {
+  margin: 5%;
+}
+
+.intro {
+  text-align: center;
+}
+
+.profile-picture {
+  width: 300px;
+  border-radius: 50%;
+}
+
+.about-me {
+  text-align: center;
+}
+
+.about-me-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border: solid gray;
+  border width: 2px;
+  box-sizing: border-box;
+}
+
+.i-am {
+}
+
+.i-am ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.i-like {
+
+}
+
+.i-like ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.i-plan {
+}
+
+.i-plan ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.my-projects {
+  text-align: center;
+}
+
