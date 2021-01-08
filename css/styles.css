@@ -77,6 +77,12 @@
   margin-top: 0;
 }
 
+.my-projects ul {
+  display: inline-block;
+  text-align: left;
+  margin-top: 0;
+}
+
 .project-1 {
   margin: 2%;
 }
@@ -110,4 +116,32 @@
 
 body {
   font-family: "Simplifica";
+}
+
+h1 {
+  font-size: 65px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 22px;
+}
+
+ol {
+  font-size: 22px;
+}
+
+ul {
+  font-size: 22px;
 }
