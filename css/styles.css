@@ -19,10 +19,14 @@
 .profile-picture {
   width: 300px;
   border-radius: 50%;
-  border: solid gray;
+  border: solid #BBBFCA;
   border-width: 4px;
   padding: 4px;
   float: left;
+}
+
+.name {
+  text-shadow: 2px 2px #BBBFCA;
 }
 
 .about-me {
@@ -41,13 +45,6 @@
   margin: 2%;
 }
 
-.i-am {
-
-}
-
-.i-plan {
-}
-
 .i-plan ul {
   display: inline-block;
   text-align: left;
@@ -56,8 +53,9 @@
 
 .my-projects {
   text-align: center;
-  border: solid gray;
-  border width: 2px;
+  padding: 2%;
+  background-color: #BBBFCA;
+  border-radius: 25px;
   box-sizing: border-box;
   margin-left: 20%;
 }
@@ -85,14 +83,23 @@
 
 .project-1 {
   margin: 2%;
+  border: solid #495464;
+  border-width: 2px;
+  border-radius: 25px;
 }
 
 .project-2 {
   margin: 2%;
+  border: solid #495464;
+  border-width: 2px;
+  border-radius: 25px;
 }
 
 .project-3 {
   margin: 2%;
+  border: solid #495464;
+  border-width: 2px;
+  border-radius: 25px;
 }
 
 .main, .sidebar {
@@ -104,38 +111,49 @@
 }
 
 .sidebar {
+  position: sticky;
   width: 15%;
   height: 50vh;
-  position: sticky;
   top: 0;
-  background-color: white;
+  background-color: #BBBFCA;
+  border-radius: 25px;
   box-sizing: border-box;
   margin: 2%;
   text-align: center;
 }
 
+.place {
+  color: #BBBFCA;
+}
 body {
   font-family: "Simplifica";
+  background-color: #495464;
+  color: #F4F4F2;
 }
 
 h1 {
   font-size: 65px;
+  color: #F4F4F2;
 }
 
 h2 {
   font-size: 45px;
+  color: #F4F4F2; 
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 28px;
+  color: #F4F4F2; 
 }
 
 h4 {
   font-size: 25px;
+  color: #F4F4F2; 
 }
 
 p {
   font-size: 22px;
+  color: #E8E8E8;
 }
 
 ol {
@@ -144,4 +162,8 @@ ol {
 
 ul {
   font-size: 22px;
+}
+
+a {
+ color: #F4F4F2;
 }
