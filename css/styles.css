@@ -70,6 +70,15 @@
   box-sizing: border-box;
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.projects-grid ul {
+  display: inline-block;
+}
+
 .my-projects ol {
   display: inline-block;
   text-align: left;
