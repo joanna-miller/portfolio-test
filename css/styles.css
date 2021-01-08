@@ -4,6 +4,7 @@
 
 .intro {
   text-align: center;
+  margin: 2%;
 }
 
 .profile-picture {
@@ -12,15 +13,21 @@
 }
 
 .about-me {
-  text-align: center;
+  text-align: center;  
+  border: solid gray;
+  border width: 2px;
+  box-sizing: border-box;
+  margin-bottom: 5px;
 }
 
 .about-me-grid {
   display: grid;
   grid-template-columns: auto auto auto;
-  border: solid gray;
-  border width: 2px;
-  box-sizing: border-box;
+  margin: 2%;
+}
+
+.about-me p {
+  margin: 2%;
 }
 
 .i-am {
@@ -29,15 +36,16 @@
 .i-am ul {
   display: inline-block;
   text-align: left;
+  margin-top: 0;
 }
 
-.i-like {
-
+.i-enjoy {
 }
 
-.i-like ul {
+.i-enjoy ul {
   display: inline-block;
   text-align: left;
+  margin-top: 0;
 }
 
 .i-plan {
@@ -46,9 +54,30 @@
 .i-plan ul {
   display: inline-block;
   text-align: left;
+  margin-top: 0;
 }
 
 .my-projects {
   text-align: center;
+  border: solid gray;
+  border width: 2px;
+  box-sizing: border-box;
 }
 
+.my-projects ol {
+  display: inline-block;
+  text-align: left;
+  margin-top: 0;
+}
+
+.project-1 {
+  margin: 2%;
+}
+
+.project-2 {
+  margin: 2%;
+}
+
+.project-3 {
+  margin: 2%;
+}
