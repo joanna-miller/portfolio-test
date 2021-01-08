@@ -28,7 +28,7 @@
 
 .about-me-grid {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 70% 30%;
   margin: 2%;
 }
 
@@ -37,21 +37,7 @@
 }
 
 .i-am {
-}
 
-.i-am ul {
-  display: inline-block;
-  text-align: left;
-  margin-top: 0;
-}
-
-.i-enjoy {
-}
-
-.i-enjoy ul {
-  display: inline-block;
-  text-align: left;
-  margin-top: 0;
 }
 
 .i-plan {
