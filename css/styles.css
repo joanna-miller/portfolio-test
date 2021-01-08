@@ -1,5 +1,7 @@
 .container {
   margin: 5%;
+  display: flex;
+  justify-content: space-between;
 }
 
 .intro {
@@ -15,7 +17,7 @@
 .about-me {
   text-align: center;  
   border: solid gray;
-  border width: 2px;
+  border-width: 2px;
   box-sizing: border-box;
   margin-bottom: 5px;
 }
@@ -79,5 +81,24 @@
 }
 
 .project-3 {
+  margin: 2%;
+}
+
+.main, .sidebar {
+  padding: 15px;
+}
+
+.main {
+  width: 75%;
+}
+
+.sidebar {
+  width: 15%;
+  height: 50vh;
+  position: sticky;
+  top: 0;
+  border: solid gray;
+  border width: 2px;
+  box-sizing: border-box;
   margin: 2%;
 }
