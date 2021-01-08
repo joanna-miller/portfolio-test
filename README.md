@@ -1,8 +1,10 @@
-# _Jo's Portfolio_
+# _Jo's Portfolio_ <img style="float: right;" src="photos/week-1.png">
 
 #### _My first independent Epicodus project, showcasing my Epicodus work._
 
 #### By _**Jo Miller**_
+
+
 
 ## Technologies Used
 
@@ -11,7 +13,7 @@
 
 ## Description
 
-_A compilation of my work from my first week at Epicodus, covering HTML Block and Inline elements, Classes, Divs, Spans, Floats, Box Models, and CSS styling_
+_A compilation of my skills learned during me first week at Epicodus - covering HTML Block and Inline elements, Classes, Divs, Spans, Floats, Box Models, and CSS styling._
 
 ## Setup/Installation Requirements
 
@@ -22,11 +24,6 @@ _A compilation of my work from my first week at Epicodus, covering HTML Block an
 #### OR
 
 * [Click here!]({gh-pages-link-goes-here})
-
-## Known Bugs
-
-* _TBD_
-
 
 ## License
 
