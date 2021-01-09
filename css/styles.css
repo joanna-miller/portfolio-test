@@ -50,10 +50,14 @@
   font-weight: bol;
 }
 
+.i-am p {
+  margin-top: -14px;
+}
+
 .i-plan ul {
   display: inline-block;
   text-align: left;
-  margin-top: 0;
+  margin-top: -14px;
 }
 
 .my-projects {
@@ -70,20 +74,16 @@
   grid-template-columns: 50% 50%;
 }
 
-.projects-grid ul {
-  display: inline-block;
-}
-
 .my-projects ol {
   display: inline-block;
   text-align: left;
-  margin-top: 0;
+  margin-top: -14px;
 }
 
 .my-projects ul {
   display: inline-block;
   text-align: left;
-  margin-top: 0;
+  margin-top: -14px;
 }
 
 .project-1 {
@@ -132,10 +132,8 @@
 .sidebar {
   position: sticky;
   width: 15%;
-  height: 50vh;
-  min-height: 400px;
+  height: 450px;
   min-width: 100px;
-
   top: 0;
   background-color: #BBBFCA;
   border-radius: 25px;
