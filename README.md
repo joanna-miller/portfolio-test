@@ -28,6 +28,7 @@ _A compilation of my skills learned during my first week at Epicodus covering HT
 ## Known Bugs
 
 * _LinkedIn link not yet active_
+* _Font file not recognized by GH Pages_
 
 -----
 
