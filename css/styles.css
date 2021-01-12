@@ -132,8 +132,8 @@
 .sidebar {
   position: sticky;
   width: 15%;
-  height: 450px;
-  min-width: 100px;
+  height: 500px;
+  min-width: 165px;
   top: 0;
   border: solid #F4F4F2;
   background-color: #BBBFCA;
